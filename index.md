@@ -1,10 +1,10 @@
 ---
 layout: home
-title: "[XXX's] Notes"
+title: "[XXX]'s Notes"
 ---
 
-Welcome. [XXX].
+Welcome.
 
-## Topics:
-Intro: Connect to VPN Guide(Windows)
+## Topics
 
+- [Connect to VPN (Windows)]({{ site.baseurl }}/vpn-windows/)
