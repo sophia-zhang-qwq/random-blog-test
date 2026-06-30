@@ -1,6 +1,6 @@
 ---
 layout: home
-title: [XXX's] Notes
+title: "[XXX's] Notes"
 ---
 
 Welcome. [XXX].
