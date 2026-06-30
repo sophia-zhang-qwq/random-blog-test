@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Set Up VPN(Windows)"
-date: 2026-07-01
+date: 2026-06-30
 categories: networking vpn
 ---
 This guide explains how to set up a working VPN for Windows. 
