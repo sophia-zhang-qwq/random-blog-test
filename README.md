@@ -1,6 +1,28 @@
 
 <div align="center">
 
+# Minimal GitHub Pages Template
+
+A simple GitHub Pages + Jekyll template for personal blogs.
+
+## Getting Started
+
+### Option 1 (Recommended)
+
+Click **Use this template**.
+
+### Option 2
+
+Download ZIP.
+
+## Customize
+
+- README.md -> Congrats [XXX]
+- _config.yml -> [XXX’s Notes]
+- index.md -> title: "[XXX]'s Notes”,  & Topics change to your own Topic
+- _posts/ -> replace sample post with your own post
+- Webpage url -> reaplce /random-blog-test/ with your own, use your own github page site
+
 # 🎉 Congratulations [XXX]! 🎉
 
 <img src="https://octodex.github.com/images/welcometocat.png" height="200px" />
