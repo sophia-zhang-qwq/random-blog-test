@@ -45,7 +45,7 @@ Open these files and replace the placeholders.
 | `index.md` | Title: "[XXX]'s Notes”,  & change to your own Topic Name| 不然你就变成VPN博主了 |
 | `_posts/` | Replace sample post with your own post | 总要有自己的东西吧 |
 | `README.md` | Congrats [XXX] | 这是你的repo,不是我的 |
-| `url` | replace /random-blog-test/ with your own URL, use your own github page site | ... |
+| `url` | replace /random-blog-test/ with your own URL, use your own github page site | 这也要抄吗? |
 
 ---
 
