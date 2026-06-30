@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# 🎉 Congratulations sophia-zhang-qwq! 🎉
+# 🎉 Congratulations [XXX! 🎉
 
 <img src="https://octodex.github.com/images/welcometocat.png" height="200px" />
 
