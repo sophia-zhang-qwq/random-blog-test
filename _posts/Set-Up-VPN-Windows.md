@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Set Up VPN(Windows)"
+permalink: /vpn-windows/
 date: 2026-06-30
 categories: networking vpn
 ---
