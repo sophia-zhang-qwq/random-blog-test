@@ -21,18 +21,13 @@ Open these files and replace the placeholders.
 
 | File | Change |
 |------|--------|
-| `_config.yml` | Site title |
-| `index.md` | Homepage title & welcome text |
-| `_posts/` | Delete the sample post and write your own |
-| `README.md` | Replace this README with your own project description |
+| `_config.yml` | [XXX’s Notes] |
+| `index.md` | Title: "[XXX]'s Notes”,  & change to your own Topic Name|
+| `_posts/` | Replace sample post with your own post |
+| `README.md` | Congrats [XXX] |
+| `webpage url` | reaplce /random-blog-test/ with your own, use your own github page site |
 
 ---
-
-- README.md -> Congrats [XXX]
-- _config.yml -> [XXX’s Notes]
-- index.md -> title: "[XXX]'s Notes”,  & Topics change to your own Topic
-- _posts/ -> replace sample post with your own post
-- Webpage url -> reaplce /random-blog-test/ with your own, use your own github page site
 
 # 🎉 Congratulations [XXX]! 🎉
 
