@@ -39,13 +39,13 @@ A simple GitHub Pages + Jekyll template for personal blogs.
 
 Open these files and replace the placeholders.
 
-| File | Change |
-|------|--------|
-| `_config.yml` | [XXX’s Notes] |
-| `index.md` | Title: "[XXX]'s Notes”,  & change to your own Topic Name|
-| `_posts/` | Replace sample post with your own post |
-| `README.md` | Congrats [XXX] |
-| `webpage url` | replace /random-blog-test/ with your own URL, use your own github page site |
+| File | What to change | Why |
+|------|----------------|-----|
+| `_config.yml` | [XXX’s Notes] | website title |
+| `index.md` | Title: "[XXX]'s Notes”,  & change to your own Topic Name| 你又不叫 XXX｜
+| `_posts/` | Replace sample post with your own post | 不然你就变成 VPN博主了 |
+| `README.md` | Congrats [XXX] | 这是你的repo,不是我的 |
+| `webpage url` | replace /random-blog-test/ with your own URL, use your own github page site | 
 
 ---
 
