@@ -42,7 +42,7 @@ Open these files and replace the placeholders.
 | File | What to change | Why |
 |------|----------------|-----|
 | `_config.yml` | [XXX’s Notes] | Your website title |
-| `index.md` | Title: "[XXX]'s Notes”,  & change to your own Topic Name| 不然你就变成VPN博主了｜
+| `index.md` | Title: "[XXX]'s Notes”,  & change to your own Topic Name| 不然你就变成VPN博主了 |
 | `_posts/` | Replace sample post with your own post | 总要有自己的东西吧 |
 | `README.md` | Congrats [XXX] | 这是你的repo,不是我的 |
 | `url` | replace /random-blog-test/ with your own URL, use your own github page site | ... |
