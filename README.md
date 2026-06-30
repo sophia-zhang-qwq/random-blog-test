@@ -8,8 +8,11 @@ A simple GitHub Pages + Jekyll template for personal blogs.
 </div>
 
 ✅ No software installation
+
 ✅ No command line
+
 ✅ No local setup
+
 ✅ Edit everything directly in your browser
 
 Builder Comment: aka傻子都能用
