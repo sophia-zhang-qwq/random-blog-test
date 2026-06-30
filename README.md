@@ -17,11 +17,7 @@ A simple GitHub Pages + Jekyll template for personal blogs.
 
 Builder Comment: aka傻子都能用
 
-...
-
 (此处被殴打)
-
-...
 
 Builder Comment: Designed to be beginner-friendly (≧▽≦)
 
