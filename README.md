@@ -24,11 +24,11 @@ Builder Comment: aka傻子都能用
 
 Click **Use this template**, Or download the ZIP if you prefer.
 ↓
-Creat a new repository.
+Create a new repository.
 ↓
-Wait ~2min.
+Wait about 2 minutes.
 ↓
-Save your URL
+Save your URL 类似这样
 https://YOUR_USERNAME.github.io/YOUR_REPOSITORY/
 
 ---
@@ -50,7 +50,10 @@ Open these files and replace the placeholders.
 ### 2. New Content
 
 Images -> assets/images/ -> Upload files -> Reference it in your post -> Commit
-New Post -> add your own post in _posts/
+
+New Post -> add your own post in _posts/ -> Commit
+
+After editing any file -> Commit changes -> Wait & Refresh your webpage.
 
 ---
 
