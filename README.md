@@ -24,15 +24,10 @@ Builder Comment: Designed to be beginner-friendly (≧▽≦)
 ## Quick Start
 
 ### 1. Create your own repository
-
-Click **Use this template**, Or download the ZIP if you prefer.
-↓
-Create a new repository.
-↓
-Wait about 2 minutes.
-↓
-Save your URL 类似这样
-https://YOUR_USERNAME.github.io/YOUR_REPOSITORY/
+1.1 Click **Use this template**, Or download the ZIP if you prefer.
+1.2 Create a new repository.
+1.3 Wait about 2 minutes.
+1.4 Save your URL 类似这样 https://YOUR_USERNAME.github.io/YOUR_REPOSITORY/
 
 ---
 
@@ -51,12 +46,21 @@ Open these files and replace the placeholders.
 ---
 
 ### 2. New Content
+### 📷 Upload Images
+1. Open `assets/images/`
+2. Upload your images.
+3. Reference them in your post.
+4. Commit changes.
 
-Images -> assets/images/ -> Upload files -> Reference it in your post -> Commit
+### ✍ Write a New Post
+1. Open `_posts/`
+2. Add a new file.
+3. Commit changes.
 
-New Post -> add your own post in _posts/ -> Commit
-
-After editing any file -> Commit changes -> Wait & Refresh your webpage.
+### 🔄 Publish Updates
+1. Edit any file.
+2. Commit changes.
+3. Wait & Refresh your webpage.
 
 ---
 
