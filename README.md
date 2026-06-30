@@ -25,13 +25,13 @@ A simple GitHub Pages + Jekyll template for personal blogs.
 
 ### 1. Create your own repository
 
-1.1 Click **Use this template**, Or download the ZIP if you prefer.
+- Click **Use this template**, Or download the ZIP if you prefer.
 
-1.2 Create a new repository.
+- Create a new repository.
 
-1.3 Wait about 2 minutes.
+- Wait about 2 minutes.
 
-1.4 Save your URL 类似这样 https://YOUR_USERNAME.github.io/YOUR_REPOSITORY/
+- Save your URL 类似这样 https://YOUR_USERNAME.github.io/YOUR_REPOSITORY/
 
 ---
 
