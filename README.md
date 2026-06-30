@@ -5,15 +5,27 @@
 
 A simple GitHub Pages + Jekyll template for personal blogs.
 
+✅ No software installation
+✅ No command line
+✅ No local setup
+✅ Edit everything directly in your browser
+
+Builder Comment: aka傻子都能用
+
 </div>
 
 ## Quick Start
 
 ### 1. Create your own repository
 
-Click **Use this template**, then create a new repository.
-
-Or download the ZIP if you prefer.
+Click **Use this template**, Or download the ZIP if you prefer.
+↓
+Creat a new repository.
+↓
+Wait ~2min.
+↓
+Save your URL
+https://YOUR_USERNAME.github.io/YOUR_REPOSITORY/
 
 ---
 
@@ -28,6 +40,13 @@ Open these files and replace the placeholders.
 | `_posts/` | Replace sample post with your own post |
 | `README.md` | Congrats [XXX] |
 | `webpage url` | replace /random-blog-test/ with your own URL, use your own github page site |
+
+---
+
+### 2. New Content
+
+Images -> assets/images/ -> Upload files -> Reference it in your post -> Commit
+New Post -> add your own post in _posts/
 
 ---
 
