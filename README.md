@@ -6,12 +6,11 @@
 A simple GitHub Pages + Jekyll template for personal blogs.
 
 </div>
+✅ No prior knowledge required 
 
 ✅ No software installation
 
 ✅ No command line
-
-✅ No local setup
 
 ✅ Edit everything directly in your browser
 
