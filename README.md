@@ -6,6 +6,7 @@
 A simple GitHub Pages + Jekyll template for personal blogs.
 
 </div>
+
 ✅ No prior knowledge required 
 
 ✅ No software installation
