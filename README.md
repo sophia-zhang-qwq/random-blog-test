@@ -16,9 +16,13 @@ A simple GitHub Pages + Jekyll template for personal blogs.
 ✅ Edit everything directly in your browser
 
 Builder Comment: aka傻子都能用
+
 ...
+
 (此处被殴打)
+
 ...
+
 Builder Comment: Designed to be beginner-friendly (≧▽≦)
 
 ## Quick Start
