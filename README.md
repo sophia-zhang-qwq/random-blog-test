@@ -24,9 +24,13 @@ Builder Comment: Designed to be beginner-friendly (≧▽≦)
 ## Quick Start
 
 ### 1. Create your own repository
+
 1.1 Click **Use this template**, Or download the ZIP if you prefer.
+
 1.2 Create a new repository.
+
 1.3 Wait about 2 minutes.
+
 1.4 Save your URL 类似这样 https://YOUR_USERNAME.github.io/YOUR_REPOSITORY/
 
 ---
@@ -45,7 +49,7 @@ Open these files and replace the placeholders.
 
 ---
 
-### 2. New Content
+### 3. New Content
 ### 📷 Upload Images
 1. Open `assets/images/`
 2. Upload your images.
