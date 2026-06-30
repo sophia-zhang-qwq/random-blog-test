@@ -1,10 +1,10 @@
 ---
 layout: home
-title: Sophia's Notes
+title: [XXX's] Notes
 ---
 
-Welcome. Hope this highly unprofessional guide can help alleviate some suffering.
+Welcome. [XXX].
 
 ## Topics:
-Intro: Connect to VPN Guide(GLaDOS,Clash Verge,iOS&MacOS)
+Intro: Connect to VPN Guide(Windows)
 
