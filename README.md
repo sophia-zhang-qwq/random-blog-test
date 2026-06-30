@@ -27,7 +27,7 @@ Open these files and replace the placeholders.
 | `index.md` | Title: "[XXX]'s Notes”,  & change to your own Topic Name|
 | `_posts/` | Replace sample post with your own post |
 | `README.md` | Congrats [XXX] |
-| `webpage url` | reaplce /random-blog-test/ with your own URL, use your own github page site |
+| `webpage url` | replace /random-blog-test/ with your own URL, use your own github page site |
 
 ---
 
